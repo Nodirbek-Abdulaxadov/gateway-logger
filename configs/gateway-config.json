@@ -1,0 +1,10 @@
+[
+  {
+    "route": "/api/users",
+    "upstream": "http://localhost:5001"
+  },
+  {
+    "route": "/api/products",
+    "upstream": "http://localhost:5002"
+  }
+]
